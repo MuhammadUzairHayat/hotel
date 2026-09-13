@@ -1,7 +1,7 @@
 export const site = {
-  name: "Swat Rezidor",
-  fullName: "Swat Rezidor Hotel",
-  shortName: "Rezidor",
+  name: "Swat Hotel",
+  fullName: "Swat Hotel",
+  shortName: "Swat",
   tagline: "Where Luxury Meets Nature",
   description:
     "A luxury boutique mountain retreat in the heart of Swat Valley — peaceful stays, breathtaking views, and warm, unforgettable hospitality.",

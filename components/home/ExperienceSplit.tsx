@@ -42,7 +42,7 @@ export function ExperienceSplit() {
             </Reveal>
             <Reveal delay={0.1}>
               <p className="mt-6 text-base leading-relaxed text-foreground-muted">
-                At Swat Rezidor, every moment is designed around comfort and
+                At Swat Hotel, every moment is designed around comfort and
                 calm. Wake to breathtaking mountain views, enjoy carefully
                 prepared meals in beautiful surroundings, and unwind in rooms
                 created for genuine rest.

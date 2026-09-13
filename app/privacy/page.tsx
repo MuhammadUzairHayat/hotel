@@ -3,14 +3,14 @@ import { LegalPage } from "@/components/common/LegalPage";
 
 export const metadata: Metadata = {
   title: "Privacy Policy",
-  description: "How Swat Rezidor Hotel collects, uses, and protects your information.",
+  description: "How Swat Hotel collects, uses, and protects your information.",
 };
 
 export default function PrivacyPage() {
   return (
     <LegalPage
       title="Privacy Policy"
-      intro="Your privacy matters to us. This policy explains how we handle the information you share when enquiring about or staying at Swat Rezidor Hotel."
+      intro="Your privacy matters to us. This policy explains how we handle the information you share when enquiring about or staying at Swat Hotel."
       sections={[
         {
           heading: "Information We Collect",

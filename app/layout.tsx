@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   description: site.description,
   keywords: [
-    "Swat Rezidor Hotel",
+    "Swat Hotel",
     "luxury hotel Swat Valley",
     "mountain hotel Pakistan",
     "boutique hotel Swat",

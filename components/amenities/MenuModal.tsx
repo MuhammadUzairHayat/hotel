@@ -46,7 +46,7 @@ export function MenuModal({
           >
             <div className="flex items-start justify-between border-b border-border pb-6">
               <div>
-                <span className="eyebrow">Swat Rezidor Restaurant</span>
+                <span className="eyebrow">Swat Hotel Restaurant</span>
                 <h3 className="mt-2 text-3xl text-foreground">Our Menu</h3>
                 <p className="mt-1 text-sm text-foreground-muted">
                   Prices in PKR. Seasonal dishes may vary.

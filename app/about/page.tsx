@@ -17,7 +17,7 @@ import { img, images } from "@/lib/images";
 export const metadata: Metadata = {
   title: "About Us",
   description:
-    "The story of Swat Rezidor Hotel — a place created for comfort, connection, and unforgettable experiences in the heart of Swat Valley.",
+    "The story of Swat Hotel — a place created for comfort, connection, and unforgettable experiences in the heart of Swat Valley.",
 };
 
 const benefits = [
@@ -46,7 +46,7 @@ export default function AboutPage() {
             <div className="relative aspect-[4/3] overflow-hidden rounded-2xl shadow-luxury">
               <Image
                 src={img(images.exterior, 1400)}
-                alt="Swat Rezidor Hotel exterior"
+                alt="Swat Hotel exterior"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
                 className="object-cover"
@@ -61,7 +61,7 @@ export default function AboutPage() {
             />
             <Reveal delay={0.1}>
               <p className="mt-6 text-base leading-relaxed text-foreground-muted">
-                Swat Rezidor Hotel was born from a simple vision: to create a
+                Swat Hotel was born from a simple vision: to create a
                 place where the beauty of the mountains meets the warmth of
                 genuine hospitality. Nestled in Swat Valley, our hotel is a
                 calm, luxurious retreat for those seeking rest, connection, and
@@ -99,7 +99,7 @@ export default function AboutPage() {
             <Reveal delay={0.15}>
               <p className="mt-4 text-base leading-relaxed text-foreground-muted">
                 Impeccable cleanliness, thoughtful personalized service, and a
-                genuine attention to detail define the Swat Rezidor experience.
+                genuine attention to detail define the Swat Hotel experience.
                 Your comfort is our constant priority.
               </p>
             </Reveal>
@@ -108,7 +108,7 @@ export default function AboutPage() {
             <div className="relative aspect-[4/3] overflow-hidden rounded-2xl shadow-luxury">
               <Image
                 src={img(images.hospitality, 1400)}
-                alt="Warm hospitality at Swat Rezidor"
+                alt="Warm hospitality at Swat Hotel"
                 fill
                 sizes="(max-width: 1024px) 100vw, 50vw"
                 className="object-cover"
@@ -130,7 +130,7 @@ export default function AboutPage() {
             <div className="relative aspect-[16/9] overflow-hidden rounded-2xl shadow-luxury">
               <Image
                 src={img(images.location, 2000)}
-                alt="The natural landscape surrounding Swat Rezidor Hotel"
+                alt="The natural landscape surrounding Swat Hotel"
                 fill
                 sizes="100vw"
                 className="object-cover"
@@ -179,7 +179,7 @@ export default function AboutPage() {
         imageId={images.exteriorNight}
         eyebrow="Come Experience It Yourself"
         title="Come Experience It Yourself"
-        text="We'd love to welcome you to Swat Rezidor Hotel. Your mountain retreat is waiting."
+        text="We'd love to welcome you to Swat Hotel. Your mountain retreat is waiting."
         buttonLabel="Make an Enquiry"
         buttonHref="/contact"
       />

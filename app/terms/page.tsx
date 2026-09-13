@@ -3,14 +3,14 @@ import { LegalPage } from "@/components/common/LegalPage";
 
 export const metadata: Metadata = {
   title: "Terms & Conditions",
-  description: "The terms and conditions for booking and staying at Swat Rezidor Hotel.",
+  description: "The terms and conditions for booking and staying at Swat Hotel.",
 };
 
 export default function TermsPage() {
   return (
     <LegalPage
       title="Terms & Conditions"
-      intro="These terms outline the general conditions for enquiries, bookings, and stays at Swat Rezidor Hotel. Please review them before making a reservation."
+      intro="These terms outline the general conditions for enquiries, bookings, and stays at Swat Hotel. Please review them before making a reservation."
       sections={[
         {
           heading: "Enquiries & Reservations",
@@ -26,7 +26,7 @@ export default function TermsPage() {
         },
         {
           heading: "Guest Conduct",
-          body: "We ask all guests to respect the property, staff, and fellow guests to help maintain the peaceful atmosphere of Swat Rezidor Hotel.",
+          body: "We ask all guests to respect the property, staff, and fellow guests to help maintain the peaceful atmosphere of Swat Hotel.",
         },
       ]}
     />

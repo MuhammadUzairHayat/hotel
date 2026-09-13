@@ -7,7 +7,7 @@ import { images } from "@/lib/images";
 export const metadata: Metadata = {
   title: "Amenities & Experiences",
   description:
-    "Discover the experiences and comforts that make your stay at Swat Rezidor Hotel truly memorable — dining, private balconies, outdoor experiences, and bonfire nights.",
+    "Discover the experiences and comforts that make your stay at Swat Hotel truly memorable — dining, private balconies, outdoor experiences, and bonfire nights.",
 };
 
 export default async function AmenitiesPage({

@@ -228,7 +228,7 @@ export const menu: MenuCategory[] = [
   {
     name: "Main Course",
     items: [
-      { name: "Rezidor Biryani", description: "Fragrant rice with tender meat and saffron", price: "2,200" },
+      { name: "Swat Biryani", description: "Fragrant rice with tender meat and saffron", price: "2,200" },
       { name: "Trout Karahi", description: "Fresh valley trout in a light tomato base", price: "2,600" },
       { name: "Vegetable Handi", description: "Seasonal vegetables in a creamy gravy", price: "1,800" },
     ],

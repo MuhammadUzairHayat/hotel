@@ -10,7 +10,7 @@ import { site } from "@/lib/site";
 export const metadata: Metadata = {
   title: "Contact Us",
   description:
-    "Contact Swat Rezidor Hotel for reservations, enquiries, or any questions about your stay in Swat Valley.",
+    "Contact Swat Hotel for reservations, enquiries, or any questions about your stay in Swat Valley.",
 };
 
 const details = [
@@ -82,7 +82,7 @@ export default function ContactPage() {
           <Reveal>
             <div className="overflow-hidden rounded-2xl shadow-card">
               <iframe
-                title="Swat Rezidor Hotel location map"
+                title="Swat Hotel location map"
                 src={site.mapEmbed}
                 className="h-[360px] w-full border-0 sm:h-[440px]"
                 loading="lazy"

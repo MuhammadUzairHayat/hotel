@@ -9,7 +9,7 @@ import { images } from "@/lib/images";
 export const metadata: Metadata = {
   title: "Our Rooms",
   description:
-    "Discover thoughtfully designed rooms at Swat Rezidor Hotel where modern comfort meets the peaceful beauty of Swat Valley.",
+    "Discover thoughtfully designed rooms at Swat Hotel where modern comfort meets the peaceful beauty of Swat Valley.",
 };
 
 export default function RoomsPage() {
@@ -27,7 +27,7 @@ export default function RoomsPage() {
           <SectionHeading
             eyebrow="Room Types"
             title="Stay Your Way"
-            subtitle="Choose the room that suits your stay and experience comfort, privacy, and warm hospitality at Swat Rezidor Hotel."
+            subtitle="Choose the room that suits your stay and experience comfort, privacy, and warm hospitality at Swat Hotel."
           />
 
           <div className="mt-16 space-y-24 lg:space-y-32">
@@ -42,7 +42,7 @@ export default function RoomsPage() {
         imageId={images.landscapeWide}
         eyebrow="Swat Valley Awaits"
         title="Find Your Perfect Stay"
-        text="Whether you're visiting for a peaceful getaway, a family holiday, or an unforgettable escape into the mountains, Swat Rezidor Hotel welcomes you."
+        text="Whether you're visiting for a peaceful getaway, a family holiday, or an unforgettable escape into the mountains, Swat Hotel welcomes you."
         buttonLabel="Make an Enquiry"
         buttonHref="/contact"
       />
